@@ -33,3 +33,4 @@ The login/signup screen used `FirebaseAuth`:
 - Login: `signInWithEmailAndPassword`
 - Signup: `createUserWithEmailAndPassword`
 
+### By Lames, Duaa, Omaima, and Walaa
